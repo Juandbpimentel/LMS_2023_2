@@ -6,4 +6,4 @@ Esse repositório é para guardar as práticas e estudos da disciplina de Lingua
 - Introdução ao HTMl
 - Tags básicas
 - Estrutura básica de um documento HTML
-- [Prática de hoje - Informações de Estudante](./Aula01/01Hello.html)
+- [Prática de hoje - Informações de Estudante](./Aula01/02Estudante.html)
