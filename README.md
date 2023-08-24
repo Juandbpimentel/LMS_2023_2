@@ -2,8 +2,8 @@
 Esse repositório é para guardar as práticas e estudos da disciplina de Linguagens de Marcação e Scripts
 
 
-### Aula 1 - 11/08/2021
-- Introdução ao HTMl
-- Tags básicas
-- Estrutura básica de um documento HTML
-- [Prática de hoje - Informações de Estudante](./Aula01/02Estudante.html)
+### Atividade 1 - 18/08/2021
+- [Conheça Remnant: From the Ashes](./Atividades/Atividade01/Atividade01.html)
+
+## Atividade 02
+- 
