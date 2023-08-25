@@ -6,4 +6,4 @@ Esse repositório é para guardar as práticas e estudos da disciplina de Lingua
 - [Conheça Remnant: From the Ashes](./Atividades/Atividade01/Atividade01.html)
 
 ## Atividade 02
-- 
+- [Implementação do formulário](./Atividades/Atividade02/Atividade02.html)
