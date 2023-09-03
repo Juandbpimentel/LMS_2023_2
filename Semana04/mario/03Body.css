@@ -1,0 +1,25 @@
+.looks_body {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+div.relative_body {
+    position: relative;
+    display:flex;
+    flex-direction: row;
+    width: 240px;
+    height: 180px;
+    left: 170px;
+    top: 100px;
+    border: 1px solid black
+}
+/*
+div.absolute_body01{
+    position: relative;
+    background-color: red;
+    left: 80px;
+}
+
+*/
