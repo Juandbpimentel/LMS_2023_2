@@ -1,0 +1,47 @@
+div.relative_body {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 315px;
+  height: 189px;
+  top: 79px;
+  border: 1px solid black;
+}
+/*
+
+*/
+.body_line_1 {
+    top: 0px;
+}
+
+.body_line_2 {
+    top: 21px;
+}
+
+.body_line_3 {
+    top: 42px;
+}
+
+.body_line_4 {
+    top: 63px;
+}
+
+.body_line_5 {
+    top: 84px;
+}
+
+.body_line_6 {
+    top: 105px;
+}
+
+.body_line_7 {
+    top: 126px;
+}
+
+.body_line_8 {
+    top: 147px;
+}
+
+.body_line_9 {
+    top: 168px;
+}

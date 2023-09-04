@@ -1,0 +1,23 @@
+div.relative_head {
+  position: relative;
+  width: 315px;
+  height: 105px;
+  top: 80px;
+  border: 1px solid black;
+}
+
+.head_line_1 {
+  top: 0px;
+}
+.head_line_2 {
+  top: 21px;
+}
+.head_line_3 {
+  top: 42px;
+}
+.head_line_4 {
+  top: 63px;
+}
+.head_line_5 {
+  top: 84px;
+}

@@ -1,0 +1,14 @@
+div.relative_hat {
+  position: relative;
+  width: 315px;
+  height: 42px;
+  top: 81px;
+  border: 0.25px solid black;
+}
+
+.hat_line_1 {
+  top: 0px;
+}
+.hat_line_2 {
+  top: 21px;
+}
