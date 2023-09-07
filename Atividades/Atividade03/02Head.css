@@ -2,8 +2,8 @@ div.relative_head {
   position: relative;
   width: 315px;
   height: 105px;
-  top: 80px;
-  border: 1px solid black;
+  top: 81px;
+  border: 0.5px solid rgba(0, 0, 0, 0.15);
 }
 
 .head_line_1 {

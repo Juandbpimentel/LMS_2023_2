@@ -2,8 +2,8 @@ div.relative_hat {
   position: relative;
   width: 315px;
   height: 42px;
-  top: 81px;
-  border: 0.25px solid black;
+  top: 83px;
+  border: 0.5px solid rgba(0, 0, 0, 0.15);
 }
 
 .hat_line_1 {
